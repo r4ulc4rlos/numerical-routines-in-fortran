@@ -1,2 +1,2 @@
-# numerical-routines-in-fortran
-numerical-routines-in-fortran
+# fortran-numerical-routines
+Numerical method implementations in Fortran 90.... :P
